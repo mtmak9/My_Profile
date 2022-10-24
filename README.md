@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PXG Bot**
 
-- 🌱 I’m currently learning **Python,AWS,Flask**
+- 🌱 I’m currently learning **Python, AWS, Flask, django**
 
 - 🤝 I’m looking for help with [Krypto-Info](www.krypto-info.pl/discord)
 
